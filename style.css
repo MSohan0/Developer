@@ -7,3 +7,18 @@ h1{
 .name-orange-color{
     color: orange;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100% ;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgba(255, 172, 19, 0.959);
+    padding: 10px 10px;
+    
+}
